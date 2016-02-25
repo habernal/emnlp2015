@@ -1,3 +1,5 @@
+/code/dependencies/de.tudarmstadt.ukp.dkpro.core.rst-asl/de.tudarmstadt.ukp.dkpro.core.rst-asl.iws
+/code/dependencies/de.tudarmstadt.ukp.dkpro.argumentation.annotations/de.tudarmstadt.ukp.dkpro.argumentation.annotations.basic/dependency-reduced-pom.xml
 *.class
 
 # Mobile Tools for Java (J2ME)
